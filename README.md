@@ -1,68 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Category: Work from Home 
+Title of the prototype: Workfit 
+Team name: Cards&Money 
+Team members: 
+Maria Abraham Pynadath 
+Uzair Rizwan 
+Aliyah Kabeer 
+Problem: 
+Given the current situation, most companies have asked their employees to work from home instead of being physically present in the office. This has led to employees spending most of their day seated in one position and not really moving around. In addition to this, the whole work-from-home situation has caused a huge social rift between co-workers as opposed to the dynamic workspace culture they’re used to where they would take frequent breaks between their work to have bonding sessions with their co-workers. Be it playing a sport, or spending time in the lounge or playing a board game, they always found a way to connect. So the major two problems we’re highlighting here are: 
+-Fitness: Employees aren’t moving around as much as they used to, which has reduced their physical activity leading to a decrease in the attention paid to health and fitness. 
+-Co-worker relationships: As we have highlighted earlier, the current situation has led to employees not interacting with each other outside of “work” conversations. 
+Solution: 
+-A web application that assigns a certain number of fitness related challenges and tasks every few hours.
 
-## Available Scripts
+-These tasks and challenges are group based within the company so as to motivate the employees to complete the tasks. 
+-This creates an environment for co-workers to bond with each other, and we plan to include a point based system to also bring out the competitive spirit amongst them and encourage them to finish their tasks on time.
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- The tasks will be simple and short 10-20 minute ones and may include stress-busters like meditation, yoga etc. or employees could opt for a more intense workout task. -This reminds them to take a break every once in a while while simultaneously helping them interact with their colleagues. 
+Tech stack: 
+-MERN stack - REACT, NodeJS, Express and MongoDB, Mongoose 
