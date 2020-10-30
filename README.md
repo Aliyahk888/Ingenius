@@ -4,7 +4,7 @@ Team name: Cards&Money </br></br>
 
 Team members: </br>
 Maria Abraham Pynadath </br>
-Uzair Rizwan</br>
+Mohammed Uzair Rizwan</br>
 Aliyah Kabeer</br></br>
 
 Problem: 
