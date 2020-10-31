@@ -21,3 +21,4 @@ Solution:
 -The tasks will be simple and short 10-20 minute ones and may include stress-busters like meditation, yoga etc. or employees could opt for a more intense workout task.</br> -This reminds them to take a break every once in a while while simultaneously helping them interact with their colleagues. </br></br>
 Tech stack: 
 -MERN stack - REACT, NodeJS, Express and MongoDB, Mongoose 
+<br> NOTE: This is just a prototype of our app. It doesn't include all of the functionalities of the app, but it aims to display the way it will work when its fully completed. 
